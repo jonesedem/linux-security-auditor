@@ -9,7 +9,7 @@ A lightweight, zero-dependency Python security automation tool designed to audit
 
 ## Usage
 ```bash
-git clone https://github.com<jonesedem>/linux-security-auditor.git
+git clone https://github.com/
 cd linux-security-auditor
 sudo python3 auditor.py
 ```
